@@ -2,8 +2,10 @@ class Dog
 end 
 
 def bark 
-  @bark
+  "woof!"
 end 
+
+puts bark 
 
 
 dog = Dog.new 
