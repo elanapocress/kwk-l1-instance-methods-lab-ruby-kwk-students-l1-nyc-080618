@@ -1,6 +1,5 @@
 class Person
-end 
-def talk
+  def talk
   "Hello World!"
 end 
 puts talk
@@ -10,3 +9,4 @@ def walk
 end 
 puts walk
 walk = Person.new
+end 
