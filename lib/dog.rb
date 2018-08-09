@@ -1,7 +1,7 @@
 class Dog
 end 
 
-def bark (name)
+def bark 
   "woof!"
 end 
 
