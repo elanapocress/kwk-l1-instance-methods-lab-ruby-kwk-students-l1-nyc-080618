@@ -4,10 +4,12 @@ end
 def bark 
   "woof!"
 end 
+puts bark 
 
-def 
-  "The Dog is sitting'
+def sit
+  "The Dog is sitting"
 end 
+puts sit
 
 puts bark 
 
