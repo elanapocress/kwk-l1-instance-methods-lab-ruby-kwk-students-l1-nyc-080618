@@ -1,9 +1,8 @@
 class Person
   def talk
-  "Hello World!"
+  puts "Hello World!"
 end 
-puts talk
-talk = Person.new
+talk 
 def walk
   "The Person is walking"
 end 
