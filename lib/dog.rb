@@ -6,3 +6,7 @@ def bark
 end 
 
 
+dog = Dog.new 
+
+puts dog.bark
+
