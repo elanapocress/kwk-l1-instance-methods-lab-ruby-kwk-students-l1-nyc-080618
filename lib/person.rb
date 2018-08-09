@@ -4,8 +4,7 @@ class Person
 end 
 talk 
 def walk
-  "The Person is walking"
+  puts "The Person is walking"
 end 
-puts walk
-walk = Person.new
+walk
 end 
