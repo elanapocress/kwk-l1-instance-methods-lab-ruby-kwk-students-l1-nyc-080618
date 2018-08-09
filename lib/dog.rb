@@ -8,7 +8,4 @@ end
 puts bark 
 
 
-dog = Dog.new 
-
-puts dog.bark
 
